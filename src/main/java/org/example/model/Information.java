@@ -8,6 +8,7 @@ import java.util.Date;
 
 /**
  * Provides current information on the container.
+ * This is UPDATED comment.
  */
 @XmlRootElement(name = "info")
 public class Information
